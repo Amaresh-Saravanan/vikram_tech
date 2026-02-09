@@ -1,0 +1,46 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "custom.overlay",
+  "name": "Overlay group",
+  "sections": {
+    "popups": {
+      "type": "popups",
+      "blocks": {
+        "820334e4-6dce-4e19-a4b8-bdaabfa015a6": {
+          "type": "exit",
+          "settings": {
+            "show_only_for_visitors": true,
+            "show_only_once": true,
+            "title": "New Year Special offer",
+            "subheading": "on your next laptop order + Free Anti virus",
+            "show_newsletter": true,
+            "button_text": "on your next laptop order + Free Anti virus",
+            "success_message": "You will receive soon an email containing your discount code!",
+            "close_message": "Local Stock immediate delivery."
+          }
+        }
+      },
+      "block_order": [
+        "820334e4-6dce-4e19-a4b8-bdaabfa015a6"
+      ],
+      "settings": {}
+    },
+    "privacy-banner": {
+      "type": "privacy-banner",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "popups",
+    "privacy-banner"
+  ]
+}

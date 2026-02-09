@@ -1,0 +1,650 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_p5ei9mp5ei9mp5ei.png",
+            "mobile_image": "shopify://shop_images/Gemini_Generated_Image_xhr1cexhr1cexhr1.png",
+            "show_overlay": false,
+            "overlay_opacity": 10,
+            "text_color": "#2a3154",
+            "title": "",
+            "content": "",
+            "content_position": "middle_right",
+            "button_background": "#ffb00e",
+            "button_text_color": "#000000",
+            "button_text": "Button",
+            "link": ""
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Dell_G15-5530_Gaming_Laptop_15_1.png",
+            "mobile_image": "shopify://shop_images/Dell_G15-5530_Gaming_Laptop_15_1.png",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#00badb",
+            "title": "",
+            "content": "",
+            "content_position": "top_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Button",
+            "link": ""
+          }
+        },
+        "52ee6d0f-30cf-4efc-8a47-cd76c88b1129": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/finger_Mouse_Desktop.jpg",
+            "mobile_image": "shopify://shop_images/finger_Mouse_Desktop.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Button",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2",
+        "52ee6d0f-30cf-4efc-8a47-cd76c88b1129"
+      ],
+      "settings": {
+        "edge_to_edge": true,
+        "section_size": "large",
+        "carousel_effect": "fade",
+        "autoplay": true,
+        "cycle_speed": 5
+      }
+    },
+    "1646036277c15ecbcb": {
+      "type": "promotion-list",
+      "blocks": {
+        "1646036277f0fc34ea-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/hp_0eb955c5-0620-44a8-8ea5-20d2e897c004.png",
+            "stretch_image": false,
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "background": "#395777",
+            "text_color": "#ffffff",
+            "title": "HP AUTHORISED REGIONAL DISTRIBUTOR",
+            "content": "",
+            "content_position": "top_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#007ffa",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify://collections/hp"
+          }
+        },
+        "1646036277f0fc34ea-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/dell.png",
+            "stretch_image": false,
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "background": "#063970",
+            "text_color": "#ffffff",
+            "title": "DELL AUTHORISED PARTNER",
+            "content": "",
+            "content_position": "top_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#fc2a68",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify://collections/dell"
+          }
+        },
+        "1646036277f0fc34ea-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/black-power-cord-plugged-into-a-silver-laptop.jpg",
+            "stretch_image": false,
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "background": "#395777",
+            "text_color": "#ffffff",
+            "title": "SERVICES",
+            "content": "",
+            "content_position": "top_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#26c1ce",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        },
+        "item_cCyRnh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/finger_mouse_vikramtech.png",
+            "stretch_image": true,
+            "show_overlay": false,
+            "overlay_opacity": 26,
+            "background": "#000000",
+            "text_color": "#ffffff",
+            "title": "Fingers RGB-NoviTrend Wireless Mouse.",
+            "content": "",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1646036277f0fc34ea-0",
+        "1646036277f0fc34ea-1",
+        "1646036277f0fc34ea-2",
+        "item_cCyRnh"
+      ],
+      "settings": {
+        "expand_items": true,
+        "section_size": "medium",
+        "stack_mobile": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "featured-collection",
+        "title": "Featured Collection",
+        "products_count": 12,
+        "layout": "vertical",
+        "stack_products": false,
+        "show_quick_buy": true,
+        "link_title": "View all",
+        "link_url": "shopify://collections/featured-collection"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "hp-stereo-usb-headset",
+            "image": "shopify://shop_images/printer.jpg",
+            "link": "shopify://collections/hp-stereo-usb-headset"
+          }
+        },
+        "collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "keyboard-mouse",
+            "image": "shopify://shop_images/keyboard.jpg",
+            "link": "shopify://collections/keyboard-mouse"
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "barcode-scanners",
+            "image": "shopify://shop_images/TVSBS-i201sWL.png",
+            "link": "shopify://collections/barcode-scanners"
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "projectors",
+            "link": "shopify://collections/projectors"
+          }
+        },
+        "collection-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "cables",
+            "image": "shopify://shop_images/HP-USB-C-to-HDMI-2.0.jpg",
+            "link": "shopify://collections/cables"
+          }
+        },
+        "collection-6": {
+          "type": "collection",
+          "settings": {
+            "collection": "external-products",
+            "image": "shopify://shop_images/cartridge-hp.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-2",
+        "collection-4",
+        "collection-1",
+        "collection-3",
+        "collection-5",
+        "collection-6"
+      ],
+      "settings": {
+        "title": "Our Collections",
+        "link_title": "View all",
+        "link": "shopify://collections",
+        "round_images": true,
+        "show_collection_title": true
+      }
+    },
+    "1646061046ca791a26": {
+      "type": "mosaic",
+      "blocks": {
+        "164606104677ae4374-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/EPSONL3210PRINTER.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "background": "#f3f4f4",
+            "text_color": "#4f5558",
+            "title": "",
+            "content": "",
+            "content_position": "top_left",
+            "button_background": "#4f5558",
+            "button_text_color": "#f3f4f4",
+            "button_text": "Learn more",
+            "link": ""
+          }
+        },
+        "164606104677ae4374-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/dell2.png",
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "background": "#f3f4f4",
+            "text_color": "#4f5558",
+            "title": "",
+            "content": "",
+            "content_position": "top_left",
+            "button_background": "#4f5558",
+            "button_text_color": "#f3f4f4",
+            "button_text": "Learn more",
+            "link": ""
+          }
+        },
+        "164606104677ae4374-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/dell-server_5d4418b2-7c82-4c87-b680-8935fcc181ef.png",
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "background": "#f3f4f4",
+            "text_color": "#4f5558",
+            "title": "",
+            "content": "",
+            "content_position": "top_left",
+            "button_background": "#4f5558",
+            "button_text_color": "#f3f4f4",
+            "button_text": "Learn more",
+            "link": ""
+          }
+        },
+        "164606104677ae4374-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ear.png",
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "background": "#f3f4f4",
+            "text_color": "#4f5558",
+            "title": "",
+            "content": "",
+            "content_position": "top_left",
+            "button_background": "#4f5558",
+            "button_text_color": "#f3f4f4",
+            "button_text": "Learn more",
+            "link": ""
+          }
+        },
+        "164606104677ae4374-4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/nvidia_quadrap5000.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "background": "#f3f4f4",
+            "text_color": "#4f5558",
+            "title": "",
+            "content": "",
+            "content_position": "top_left",
+            "button_background": "#4f5558",
+            "button_text_color": "#f3f4f4",
+            "button_text": "Learn more",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164606104677ae4374-0",
+        "164606104677ae4374-1",
+        "164606104677ae4374-2",
+        "164606104677ae4374-3",
+        "164606104677ae4374-4"
+      ],
+      "settings": {
+        "section_size": "medium"
+      }
+    },
+    "164607008548005177": {
+      "type": "offers",
+      "blocks": {
+        "164607008577b4cc37-0": {
+          "type": "offer",
+          "settings": {
+            "image": "shopify://shop_images/hands-holding-a-sketchbook-with-15-off.jpg",
+            "title": "HP Laptops for Students",
+            "content": "<p>Instant Discounts up to ₹5,000 on Laptops of your choice</p>"
+          }
+        },
+        "164607008577b4cc37-1": {
+          "type": "offer",
+          "settings": {
+            "image": "shopify://shop_images/vikramtech.jpg",
+            "title": "Corporate Employee Purchase Program",
+            "content": "<p>Save up to ₹10,000 on select Laptops* & Desktops*.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "164607008577b4cc37-0",
+        "164607008577b4cc37-1"
+      ],
+      "settings": {
+        "items_per_row": 2,
+        "stack_mobile": false
+      }
+    },
+    "1646053531bb7c44da": {
+      "type": "logo-list",
+      "blocks": {
+        "1646053530893650a0-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/hp_501c4095-3c0d-420c-819e-952a22f91855.jpg",
+            "link": "shopify://collections/hp"
+          }
+        },
+        "1646053530893650a0-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/dell.jpg",
+            "link": "shopify://collections/dell"
+          }
+        },
+        "1646053530893650a0-3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/samsung.jpg",
+            "link": ""
+          }
+        },
+        "1646053530893650a0-4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/lenova.jpg",
+            "link": "shopify://collections/lenova"
+          }
+        },
+        "1646053530893650a0-5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/tvs.jpg",
+            "link": ""
+          }
+        },
+        "80f025c5-2e6f-42f8-9c07-3ae5802166fa": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/numeric.jpg",
+            "link": "shopify://collections/numeric-ups"
+          }
+        },
+        "e88fad2f-e214-459a-945a-e1ee91e275b1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/asus.jpg",
+            "link": "shopify://collections/asus"
+          }
+        },
+        "2de2cc4f-6c27-4605-9044-9d9402b2b900": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Epson-Logo.png",
+            "link": "shopify://collections/epson"
+          }
+        },
+        "8cacf718-ff04-4c12-b294-a21b74d4340a": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/BROTHER_LOGO.png",
+            "link": ""
+          }
+        },
+        "36ceaa1d-8952-488a-847e-e253c70a881f": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/pantum-logo.jpg",
+            "link": ""
+          }
+        },
+        "77f0d3f3-1156-4167-b9d8-d235bfd24a4a": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/fingers.jpg",
+            "link": "shopify://collections/fingers-1"
+          }
+        },
+        "9fb39fb6-854a-426c-aa34-090e6e9b99ec": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/acer.jpg",
+            "link": "shopify://collections/acer"
+          }
+        }
+      },
+      "block_order": [
+        "1646053530893650a0-1",
+        "1646053530893650a0-2",
+        "1646053530893650a0-3",
+        "1646053530893650a0-4",
+        "1646053530893650a0-5",
+        "80f025c5-2e6f-42f8-9c07-3ae5802166fa",
+        "e88fad2f-e214-459a-945a-e1ee91e275b1",
+        "2de2cc4f-6c27-4605-9044-9d9402b2b900",
+        "8cacf718-ff04-4c12-b294-a21b74d4340a",
+        "36ceaa1d-8952-488a-847e-e253c70a881f",
+        "77f0d3f3-1156-4167-b9d8-d235bfd24a4a",
+        "9fb39fb6-854a-426c-aa34-090e6e9b99ec"
+      ],
+      "settings": {
+        "title": "Multibrand Computer Showroom",
+        "link_title": "",
+        "link": "shopify://collections"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Newsletter",
+        "content": "<p>A short sentence describing what someone will receive by subscribing</p>",
+        "background": "#1e2d7d",
+        "text": "#ffffff"
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "product-meta": {
+          "type": "product_meta",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": true,
+            "show_reviews_badge": true,
+            "show_share_buttons": true
+          }
+        },
+        "featured-description": {
+          "type": "featured_description",
+          "settings": {}
+        },
+        "variant-selector": {
+          "type": "variant_selector",
+          "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "show_quantity_selector": true,
+            "show_taxes_included": true,
+            "show_inventory_quantity": true,
+            "low_inventory_threshold": 0
+          }
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true
+          }
+        },
+        "60a3d4ca-36a4-4350-83be-e697bc6395f2": {
+          "type": "text",
+          "settings": {
+            "content": "<p>test</p>"
+          }
+        },
+        "9b5f5393-bc80-43e4-b65c-62fa3bee27e6": {
+          "type": "store_pickup",
+          "settings": {}
+        },
+        "5a0767eb-c8ff-42b9-a518-c6c4c706b322": {
+          "type": "text",
+          "settings": {
+            "content": "<p>Operating system : Windows 10 Pro 64</p>"
+          }
+        }
+      },
+      "block_order": [
+        "product-meta",
+        "featured-description",
+        "variant-selector",
+        "buy-buttons",
+        "60a3d4ca-36a4-4350-83be-e697bc6395f2",
+        "9b5f5393-bc80-43e4-b65c-62fa3bee27e6",
+        "5a0767eb-c8ff-42b9-a518-c6c4c706b322"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "alienware-310h-gaming-headset",
+        "title": "Featured Product",
+        "link_title": "View details",
+        "link_url": "shopify://products/alienware-310h-gaming-headset",
+        "image_size": "medium",
+        "enable_image_zoom": true,
+        "enable_video_looping": true,
+        "zoom_effect": "outside",
+        "carousel_effect": "fade"
+      }
+    },
+    "16460701204b133272": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "title": "Recently viewed",
+        "show_quick_buy": true
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "blog": "",
+        "blog_posts_count": 3,
+        "title": "Blog posts",
+        "link_title": "View all",
+        "show_category": true,
+        "show_author": true,
+        "show_date": true,
+        "show_excerpt": false,
+        "stack_mobile": false
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "icon-1": {
+          "type": "item",
+          "settings": {
+            "icon": "bi-delivery",
+            "title": "Free delivery worldwide",
+            "content": "<p>Short content about your store</p>"
+          }
+        },
+        "icon-2": {
+          "type": "item",
+          "settings": {
+            "icon": "bi-returns",
+            "title": "Satisfied or refunded",
+            "content": "<p>Payment method within 20-25 working dayS</p>"
+          }
+        },
+        "icon-3": {
+          "type": "item",
+          "settings": {
+            "icon": "bi-customer-support",
+            "title": "Top-notch support",
+            "content": "<p>Short content about your store</p>"
+          }
+        },
+        "icon-4": {
+          "type": "item",
+          "settings": {
+            "icon": "bi-secure-payment",
+            "title": "Secure payments",
+            "content": "<p>Short content about your store</p>"
+          }
+        }
+      },
+      "block_order": [
+        "icon-1",
+        "icon-2",
+        "icon-3",
+        "icon-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "stack_mobile": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "1646036277c15ecbcb",
+    "featured-collection",
+    "collection-list",
+    "1646061046ca791a26",
+    "164607008548005177",
+    "1646053531bb7c44da",
+    "newsletter",
+    "featured-product",
+    "16460701204b133272",
+    "blog-posts",
+    "text-with-icons"
+  ]
+}

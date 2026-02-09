@@ -1,0 +1,5 @@
+shopify theme pull --store=vikramtech-com.myshopify.com
+ 
+
+
+shopify theme serve --store=vikramtech-com.myshopify.com
