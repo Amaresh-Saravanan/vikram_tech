@@ -15,8 +15,6 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_p5ei9mp5ei9mp5ei.png",
-            "mobile_image": "shopify://shop_images/Gemini_Generated_Image_xhr1cexhr1cexhr1.png",
             "show_overlay": false,
             "overlay_opacity": 10,
             "text_color": "#2a3154",
@@ -32,8 +30,6 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Dell_G15-5530_Gaming_Laptop_15_1.png",
-            "mobile_image": "shopify://shop_images/Dell_G15-5530_Gaming_Laptop_15_1.png",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#00badb",
@@ -49,8 +45,6 @@
         "52ee6d0f-30cf-4efc-8a47-cd76c88b1129": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/finger_Mouse_Desktop.jpg",
-            "mobile_image": "shopify://shop_images/finger_Mouse_Desktop.jpg",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -83,7 +77,6 @@
         "1646036277f0fc34ea-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/hp_0eb955c5-0620-44a8-8ea5-20d2e897c004.png",
             "stretch_image": false,
             "show_overlay": false,
             "overlay_opacity": 50,
@@ -101,7 +94,6 @@
         "1646036277f0fc34ea-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/dell.png",
             "stretch_image": false,
             "show_overlay": false,
             "overlay_opacity": 50,
@@ -119,7 +111,6 @@
         "1646036277f0fc34ea-2": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/black-power-cord-plugged-into-a-silver-laptop.jpg",
             "stretch_image": false,
             "show_overlay": false,
             "overlay_opacity": 50,
@@ -137,7 +128,6 @@
         "item_cCyRnh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/finger_mouse_vikramtech.png",
             "stretch_image": true,
             "show_overlay": false,
             "overlay_opacity": 26,
@@ -168,7 +158,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "featured-collection",
+        "collection": "laptop",
         "title": "Featured Collection",
         "products_count": 12,
         "layout": "vertical",
@@ -185,7 +175,6 @@
           "type": "collection",
           "settings": {
             "collection": "hp-stereo-usb-headset",
-            "image": "shopify://shop_images/printer.jpg",
             "link": "shopify://collections/hp-stereo-usb-headset"
           }
         },
@@ -193,7 +182,6 @@
           "type": "collection",
           "settings": {
             "collection": "keyboard-mouse",
-            "image": "shopify://shop_images/keyboard.jpg",
             "link": "shopify://collections/keyboard-mouse"
           }
         },
@@ -201,7 +189,6 @@
           "type": "collection",
           "settings": {
             "collection": "barcode-scanners",
-            "image": "shopify://shop_images/TVSBS-i201sWL.png",
             "link": "shopify://collections/barcode-scanners"
           }
         },
@@ -216,7 +203,6 @@
           "type": "collection",
           "settings": {
             "collection": "cables",
-            "image": "shopify://shop_images/HP-USB-C-to-HDMI-2.0.jpg",
             "link": "shopify://collections/cables"
           }
         },
@@ -224,7 +210,6 @@
           "type": "collection",
           "settings": {
             "collection": "external-products",
-            "image": "shopify://shop_images/cartridge-hp.jpg",
             "link": ""
           }
         }
@@ -251,7 +236,6 @@
         "164606104677ae4374-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/EPSONL3210PRINTER.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -268,7 +252,6 @@
         "164606104677ae4374-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/dell2.png",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -285,7 +268,6 @@
         "164606104677ae4374-2": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/dell-server_5d4418b2-7c82-4c87-b680-8935fcc181ef.png",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -302,7 +284,6 @@
         "164606104677ae4374-3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ear.png",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -319,7 +300,6 @@
         "164606104677ae4374-4": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/nvidia_quadrap5000.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -351,7 +331,6 @@
         "164607008577b4cc37-0": {
           "type": "offer",
           "settings": {
-            "image": "shopify://shop_images/hands-holding-a-sketchbook-with-15-off.jpg",
             "title": "HP Laptops for Students",
             "content": "<p>Instant Discounts up to ₹5,000 on Laptops of your choice</p>"
           }
@@ -359,7 +338,6 @@
         "164607008577b4cc37-1": {
           "type": "offer",
           "settings": {
-            "image": "shopify://shop_images/vikramtech.jpg",
             "title": "Corporate Employee Purchase Program",
             "content": "<p>Save up to ₹10,000 on select Laptops* & Desktops*.</p>"
           }
@@ -380,84 +358,72 @@
         "1646053530893650a0-1": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/hp_501c4095-3c0d-420c-819e-952a22f91855.jpg",
             "link": "shopify://collections/hp"
           }
         },
         "1646053530893650a0-2": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/dell.jpg",
             "link": "shopify://collections/dell"
           }
         },
         "1646053530893650a0-3": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/samsung.jpg",
             "link": ""
           }
         },
         "1646053530893650a0-4": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/lenova.jpg",
             "link": "shopify://collections/lenova"
           }
         },
         "1646053530893650a0-5": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/tvs.jpg",
             "link": ""
           }
         },
         "80f025c5-2e6f-42f8-9c07-3ae5802166fa": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/numeric.jpg",
             "link": "shopify://collections/numeric-ups"
           }
         },
         "e88fad2f-e214-459a-945a-e1ee91e275b1": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/asus.jpg",
             "link": "shopify://collections/asus"
           }
         },
         "2de2cc4f-6c27-4605-9044-9d9402b2b900": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/Epson-Logo.png",
             "link": "shopify://collections/epson"
           }
         },
         "8cacf718-ff04-4c12-b294-a21b74d4340a": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/BROTHER_LOGO.png",
             "link": ""
           }
         },
         "36ceaa1d-8952-488a-847e-e253c70a881f": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/pantum-logo.jpg",
             "link": ""
           }
         },
         "77f0d3f3-1156-4167-b9d8-d235bfd24a4a": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/fingers.jpg",
             "link": "shopify://collections/fingers-1"
           }
         },
         "9fb39fb6-854a-426c-aa34-090e6e9b99ec": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/acer.jpg",
             "link": "shopify://collections/acer"
           }
         }
@@ -512,16 +478,19 @@
           "settings": {
             "selector_mode": "block",
             "color_mode": "color",
+            "variant_image_options": "",
             "show_quantity_selector": true,
             "show_taxes_included": true,
             "show_inventory_quantity": true,
-            "low_inventory_threshold": 0
+            "low_inventory_threshold": 0,
+            "progress_bar_max_value": 50
           }
         },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true
+            "show_payment_button": true,
+            "show_gift_card_recipient": true
           }
         },
         "60a3d4ca-36a4-4350-83be-e697bc6395f2": {
