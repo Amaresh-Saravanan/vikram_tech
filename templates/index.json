@@ -174,7 +174,7 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "hp-stereo-usb-headset",
+            "collection": "laptop",
             "link": "shopify://collections/hp-stereo-usb-headset"
           }
         },
@@ -225,7 +225,7 @@
       "settings": {
         "title": "Our Collections",
         "link_title": "View all",
-        "link": "shopify://collections",
+        "link": "shopify://products/monitor-acer-ek240y",
         "round_images": true,
         "show_collection_title": true
       }
