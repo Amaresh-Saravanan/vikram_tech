@@ -15,6 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/pragyan-goswami-GziKHv-3lVc-unsplash.jpg",
+            "mobile_image": "shopify://shop_images/mika-baumeister-OKKV_hqEtFU-unsplash.jpg",
             "show_overlay": false,
             "overlay_opacity": 10,
             "text_color": "#2a3154",
@@ -30,6 +32,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/photo-1583223667854-e0e05b1ad4f3.avif",
+            "mobile_image": "shopify://shop_images/photo-1625574384145-d2f79d1fbfc5.avif",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#00badb",
@@ -45,6 +49,8 @@
         "52ee6d0f-30cf-4efc-8a47-cd76c88b1129": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/photo-1696710257827-75e2e5954059.avif",
+            "mobile_image": "shopify://shop_images/photo-1642980701168-7c37d0116f28.avif",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
