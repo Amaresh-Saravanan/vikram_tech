@@ -19,7 +19,7 @@
             "mobile_image": "shopify://shop_images/mika-baumeister-OKKV_hqEtFU-unsplash.jpg",
             "show_overlay": true,
             "overlay_opacity": 37,
-            "text_color": "#E7EDEE",
+            "text_color": "#e7edee",
             "title": "25 Years of Excellence",
             "content": "Authorized dealer | Trusted by 5000+ customers",
             "content_position": "bottom_left",
@@ -36,7 +36,7 @@
             "mobile_image": "shopify://shop_images/gineton-rodrigues-HO_jD7dPxy8-unsplash.jpg",
             "show_overlay": true,
             "overlay_opacity": 39,
-            "text_color": "#E7EDEE",
+            "text_color": "#e7edee",
             "title": "Enterprise & Professional Laptops",
             "content": "Authorized distributor of world-class brands. Genuine warranty. Expert support",
             "content_position": "bottom_left",
@@ -87,7 +87,7 @@
             "stretch_image": false,
             "show_overlay": true,
             "overlay_opacity": 50,
-            "background": "#3D3D3D",
+            "background": "#3d3d3d",
             "text_color": "#ffffff",
             "title": "HP AUTHORISED REGIONAL DISTRIBUTOR",
             "content": "",
@@ -105,13 +105,13 @@
             "stretch_image": false,
             "show_overlay": false,
             "overlay_opacity": 50,
-            "background": "#706E6B",
+            "background": "#706e6b",
             "text_color": "#ffffff",
             "title": "DELL AUTHORISED PARTNER",
             "content": "",
             "content_position": "top_center",
             "button_background": "#ffffff",
-            "button_text_color": "#2133FA",
+            "button_text_color": "#2133fa",
             "button_text": "SHOP NOW",
             "button_link": "shopify://collections/dell"
           }
@@ -123,7 +123,7 @@
             "stretch_image": false,
             "show_overlay": true,
             "overlay_opacity": 50,
-            "background": "#95979B",
+            "background": "#95979b",
             "text_color": "#ffffff",
             "title": "EXPERT SUPPORT & WARRENTY",
             "content": "",
@@ -243,9 +243,10 @@
     "1646061046ca791a26": {
       "type": "mosaic",
       "blocks": {
-        "164606104677ae4374-0": {
+        "item_QzUiRc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/dao-hi-u-Z2x0uAbu56M-unsplash.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -259,9 +260,10 @@
             "link": ""
           }
         },
-        "164606104677ae4374-1": {
+        "164606104677ae4374-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/amr-taha-cgp7GBhZ5LQ-unsplash.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -278,22 +280,7 @@
         "164606104677ae4374-2": {
           "type": "item",
           "settings": {
-            "show_overlay": false,
-            "overlay_opacity": 50,
-            "background": "#f3f4f4",
-            "text_color": "#4f5558",
-            "title": "",
-            "content": "",
-            "content_position": "top_left",
-            "button_background": "#4f5558",
-            "button_text_color": "#f3f4f4",
-            "button_text": "Learn more",
-            "link": ""
-          }
-        },
-        "164606104677ae4374-3": {
-          "type": "item",
-          "settings": {
+            "image": "shopify://shop_images/Odyssey-G9_2.jpg",
             "show_overlay": false,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
@@ -310,7 +297,8 @@
         "164606104677ae4374-4": {
           "type": "item",
           "settings": {
-            "show_overlay": false,
+            "image": "shopify://shop_images/photo-1558864559-ed673ba3610b.avif",
+            "show_overlay": true,
             "overlay_opacity": 50,
             "background": "#f3f4f4",
             "text_color": "#4f5558",
@@ -325,10 +313,9 @@
         }
       },
       "block_order": [
+        "item_QzUiRc",
         "164606104677ae4374-0",
-        "164606104677ae4374-1",
         "164606104677ae4374-2",
-        "164606104677ae4374-3",
         "164606104677ae4374-4"
       ],
       "settings": {
