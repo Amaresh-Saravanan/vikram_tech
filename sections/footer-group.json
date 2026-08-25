@@ -11,46 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "text-with-icons": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item-1": {
-          "type": "item",
-          "settings": {
-            "icon": "bi-delivery",
-            "title": "Free shipping"
-          }
-        },
-        "item-2": {
-          "type": "item",
-          "settings": {
-            "icon": "bi-returns",
-            "title": "Satisfied or refunded"
-          }
-        },
-        "item-3": {
-          "type": "item",
-          "settings": {
-            "icon": "bi-customer-support",
-            "title": "Top-notch support"
-          }
-        },
-        "item-4": {
-          "type": "item",
-          "settings": {
-            "icon": "bi-secure-payment",
-            "title": "Secure payments"
-          }
-        }
-      },
-      "block_order": [
-        "item-1",
-        "item-2",
-        "item-3",
-        "item-4"
-      ],
-      "settings": {}
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -59,12 +19,6 @@
           "settings": {
             "title": "About Vikram Technologies",
             "content": "<p>Vikram Technologies was established in 1995 originally in Erode on Bus Stand Complex Mettur Road.<br/><br/>Vikram Technologies support the Home, Education, Small Business and Corporates. <br/><br/>Vikram Technologies offer a full range of services from design and build of desktop PC's, to full workshop repairs, on-site service and remote support. <br/><br/></p>"
-          }
-        },
-        "footer-1": {
-          "type": "links",
-          "settings": {
-            "menu": "footer"
           }
         },
         "footer-2": {
@@ -103,7 +57,6 @@
       },
       "block_order": [
         "footer-0",
-        "footer-1",
         "footer-2",
         "99f8ef4a-376f-4f04-8e25-910a59206191",
         "f1fea4c4-f673-4973-99a2-4386e37854c9",
@@ -112,6 +65,7 @@
       ],
       "settings": {
         "show_social_media": true,
+        "enable_follow_on_shop": true,
         "show_payment_icons": true,
         "show_locale_selector": true,
         "show_country_selector": true
@@ -119,7 +73,6 @@
     }
   },
   "order": [
-    "text-with-icons",
     "footer"
   ]
 }

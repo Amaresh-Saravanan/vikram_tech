@@ -603,32 +603,32 @@
           "type": "item",
           "settings": {
             "icon": "bi-delivery",
-            "title": "Free delivery worldwide",
-            "content": "<p>Short content about your store</p>"
+            "title": "Fast Local Delivery",
+            "content": "<p>Quick delivery across Erode and Tamil Nadu on all orders</p>"
           }
         },
         "icon-2": {
           "type": "item",
           "settings": {
             "icon": "bi-returns",
-            "title": "Satisfied or refunded",
-            "content": "<p>Payment method within 20-25 working dayS</p>"
+            "title": "25+ Years of Trust",
+            "content": "<p>Authorized dealer since 1999, serving 5000+ customers</p>"
           }
         },
         "icon-3": {
           "type": "item",
           "settings": {
             "icon": "bi-customer-support",
-            "title": "Top-notch support",
-            "content": "<p>Short content about your store</p>"
+            "title": "Expert Technical Support",
+            "content": "<p>Get genuine guidance before and after your purchase</p>"
           }
         },
         "icon-4": {
           "type": "item",
           "settings": {
             "icon": "bi-secure-payment",
-            "title": "Secure payments",
-            "content": "<p>Short content about your store</p>"
+            "title": "Genuine Products Only",
+            "content": "<p>100% authentic, warranty-backed hardware from authorized brands</p>"
           }
         }
       },
