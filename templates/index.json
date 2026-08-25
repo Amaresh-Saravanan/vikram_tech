@@ -577,7 +577,7 @@
     "16460701204b133272": {
       "type": "recently-viewed-products",
       "settings": {
-        "title": "Recently viewed",
+        "title": "Continue Browsing",
         "show_quick_buy": true
       }
     },
@@ -638,7 +638,6 @@
         "icon-3",
         "icon-4"
       ],
-      "disabled": true,
       "settings": {
         "stack_mobile": false
       }
