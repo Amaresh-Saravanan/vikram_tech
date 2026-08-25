@@ -185,42 +185,72 @@
           "type": "collection",
           "settings": {
             "collection": "laptop",
-            "link": "shopify://collections/hp-stereo-usb-headset"
+            "image": "shopify://shop_images/photo-1651886312896-c7af63c0fc8a.avif",
+            "link": "shopify://collections/laptop"
           }
         },
         "collection-4": {
           "type": "collection",
           "settings": {
-            "collection": "keyboard-mouse",
-            "link": "shopify://collections/keyboard-mouse"
+            "collection": "monitor",
+            "image": "shopify://shop_images/photo-1527443195645-1133f7f28990.avif",
+            "link": "shopify://collections/monitor"
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "barcode-scanners",
-            "link": "shopify://collections/barcode-scanners"
+            "collection": "printers",
+            "image": "shopify://shop_images/istockphoto-184142164-612x612.jpg",
+            "link": "shopify://collections/printers"
           }
         },
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "projectors",
-            "link": "shopify://collections/projectors"
+            "collection": "keyboards",
+            "image": "shopify://shop_images/photo-1541140532154-b024d705b90a.avif",
+            "link": "shopify://collections/keyboards"
           }
         },
         "collection-5": {
           "type": "collection",
           "settings": {
-            "collection": "cables",
-            "link": "shopify://collections/cables"
+            "collection": "mouse",
+            "image": "shopify://shop_images/premium_photo-1760761216868-7503c2f5c892.avif",
+            "link": "shopify://collections/mouse"
           }
         },
         "collection-6": {
           "type": "collection",
           "settings": {
-            "collection": "external-products",
-            "link": ""
+            "collection": "audio-webcams",
+            "image": "shopify://shop_images/photo-1742783637429-2452a4caee8c.avif",
+            "link": "shopify://collections/audio-webcams"
+          }
+        },
+        "collection_nbiKNm": {
+          "type": "collection",
+          "settings": {
+            "collection": "cables-adapters",
+            "image": "shopify://shop_images/photo-1492107376256-4026437926cd.avif",
+            "link": "shopify://collections/cables-adapters"
+          }
+        },
+        "collection_z39hVD": {
+          "type": "collection",
+          "settings": {
+            "collection": "power-cooling",
+            "image": "shopify://shop_images/pexels-zeleboba-7421725_1.jpg",
+            "link": "shopify://collections/power-cooling"
+          }
+        },
+        "collection_Yrxw6C": {
+          "type": "collection",
+          "settings": {
+            "collection": "networking-bags",
+            "image": "shopify://shop_images/istockphoto-880917612-612x612.webp",
+            "link": "shopify://collections/networking-bags"
           }
         }
       },
@@ -230,7 +260,10 @@
         "collection-1",
         "collection-3",
         "collection-5",
-        "collection-6"
+        "collection-6",
+        "collection_nbiKNm",
+        "collection_z39hVD",
+        "collection_Yrxw6C"
       ],
       "settings": {
         "title": "Our Collections",
