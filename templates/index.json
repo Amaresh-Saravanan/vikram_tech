@@ -388,72 +388,84 @@
         "1646053530893650a0-1": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/HP_Logo_2017_svg.webp",
             "link": "shopify://collections/hp"
           }
         },
         "1646053530893650a0-2": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/Samsung_wordmark.svg",
             "link": "shopify://collections/dell"
           }
         },
         "1646053530893650a0-3": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/ASUS_Logo_svg.webp",
             "link": ""
           }
         },
         "1646053530893650a0-4": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/Dell_logo_2021_svg.webp",
             "link": "shopify://collections/lenova"
           }
         },
         "1646053530893650a0-5": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/Acer_Logo_svg.webp",
             "link": ""
           }
         },
         "80f025c5-2e6f-42f8-9c07-3ae5802166fa": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/Lenovo_logo__2015_onwards__2_svg.webp",
             "link": "shopify://collections/numeric-ups"
           }
         },
         "e88fad2f-e214-459a-945a-e1ee91e275b1": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/LG_logo__2023__svg.webp",
             "link": "shopify://collections/asus"
           }
         },
         "2de2cc4f-6c27-4605-9044-9d9402b2b900": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/Fingers-logo-9.webp",
             "link": "shopify://collections/epson"
           }
         },
         "8cacf718-ff04-4c12-b294-a21b74d4340a": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-08-25_122949.png",
             "link": ""
           }
         },
         "36ceaa1d-8952-488a-847e-e253c70a881f": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/Micro-Star_International_logo_svg.webp",
             "link": ""
           }
         },
         "77f0d3f3-1156-4167-b9d8-d235bfd24a4a": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-08-25_124127.png",
             "link": "shopify://collections/fingers-1"
           }
         },
         "9fb39fb6-854a-426c-aa34-090e6e9b99ec": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/idcV2ngT4p_logos.png",
             "link": "shopify://collections/acer"
           }
         }
